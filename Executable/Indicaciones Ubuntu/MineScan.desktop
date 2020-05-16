@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MineScan
+Comment=Programa de escaneo Laser Lidar Playtec Caverna
+Exec=/home/asus/Escritorio/Project-Lidar_Mine_Jtk1-master/Executable/bin/main.sh
+Icon=/home/asus/Escritorio/Project-Lidar_Mine_Jtk1-master/Executable/Images/mine.png
+Terminal=false
+Type=Application

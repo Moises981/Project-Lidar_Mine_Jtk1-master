@@ -1,0 +1,6 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~Porcentaje" : \b [int] Parametro de resolucion min: 40, default: 75, max: 100
+

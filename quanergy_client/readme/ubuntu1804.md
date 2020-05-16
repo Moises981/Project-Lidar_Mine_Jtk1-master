@@ -23,9 +23,8 @@ git clone https://github.com/QuanergySystems/quanergy_client.git
 ```
 Build quanergy_client code and visualizer application
 
-```
-
 ##Add SDK to cmake path
+```
 cd quanergy_client
 mkdir build
 cd build

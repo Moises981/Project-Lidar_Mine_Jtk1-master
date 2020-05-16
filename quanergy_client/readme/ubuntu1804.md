@@ -1,4 +1,4 @@
-# Ubuntu 16.04 LTS Build of QuanergyClient
+# Ubuntu 18.04 LTS Build of QuanergyClient
 
 ## Install Prerequisites
 The following will install prerequisites including PCL 
